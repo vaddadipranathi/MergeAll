@@ -1,6 +1,7 @@
 package com.hcl.employee.beans;
 
 public class Employee {
+	//beans
 	public Employee() {
 		
 	}
